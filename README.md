@@ -74,7 +74,6 @@ Then, scan the QR code with your Expo Go app or open it in your simulator.
 
 ## 🧩 Future Improvements
 
-* Add password customization (length, special characters, etc.)
 * Save password history
 * Toggle dark/light theme
 * Add vibration feedback
