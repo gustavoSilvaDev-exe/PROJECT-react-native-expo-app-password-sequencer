@@ -4,7 +4,7 @@
 
 ## 📱 Screenshots
 
-> ![alt text](https://github.com/gustavoSilvaDev-exe/PROJECT-react-native-expo-app-password-sequencer/blob/main/bat-pass-generator-screenshot.jpg?raw=true)
+> ![App Screenshot](./bat-pass-app/assets/bat-pass-generator-screenshot.jpg?raw=true "Bat Pass Generator")
 > `BatLogo`, `BatTextInput`, and `BatButton` styled for justice.
 
 ## 🚀 Features
