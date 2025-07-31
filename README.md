@@ -2,11 +2,6 @@
 
 **Bat Pass Generator** is a sleek and simple password generator built using **React Native** and **Expo**, inspired by Gotham’s very own Dark Knight. Designed with modular components, it allows users to generate strong passwords and copy them to the clipboard — all wrapped in a custom Batman-themed UI.
 
-## 📱 Screenshots
-
-> ![App Screenshot](https://github.com/gustavoSilvaDev-exe/PROJECT-react-native-expo-app-password-sequencer/blob/main/assets/bat-pass-generator-screenshot.jpg?raw=true)
-> `BatLogo`, `BatTextInput`, and `BatButton` styled for justice.
-
 ## 🚀 Features
 
 * ⚡ Generate random, secure passwords
@@ -71,6 +66,11 @@ Then, scan the QR code with your Expo Go app or open it in your simulator.
 * `<BatLogo />` – Displays the app logo and title.
 * `<BatTextInput />` – Shows the generated password (read-only).
 * `<BatButton />` – Contains both the generate and copy buttons.
+
+## 📱 Screenshots
+
+> ![App Screenshot](https://github.com/gustavoSilvaDev-exe/PROJECT-react-native-expo-app-password-sequencer/blob/main/assets/bat-pass-generator-screenshot.jpg?raw=true)
+> `BatLogo`, `BatTextInput`, and `BatButton` styled for justice.
 
 ## 🧩 Future Improvements
 
